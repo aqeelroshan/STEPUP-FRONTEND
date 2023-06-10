@@ -13,11 +13,11 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 const Home = () => {
   return (
     <>
-    <section>
+    <Container>
       <div className="slider">
         <img className="slider-img" src="images/slider-img.jpg" alt="slider-img" />
       </div>
-    </section>
+    </Container>
 
       <Container class1="home-wrapper-1 py-5">
         <div className="row">
@@ -243,7 +243,7 @@ const Home = () => {
             </div>
         </div>
     </div>
-      </section>
+      </Container>
 
 
 
@@ -397,7 +397,7 @@ const Home = () => {
         </div>
       </Container>
       
-      <section>
+      <Container>
       <div className='contact'>
         <div className="wrapper">
             <span>BE IN TOUCH WITH US:</span>
@@ -412,7 +412,7 @@ const Home = () => {
             </div>
         </div>
     </div>
-      </section>
+      </Container>
     </>
   );
 };
