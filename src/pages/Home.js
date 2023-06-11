@@ -254,7 +254,7 @@ const Home = () => {
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-1.webp"
+                src="images/camera.jpg"
                 className="img-fluid"
                 alt="famous"
               />
@@ -268,7 +268,7 @@ const Home = () => {
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-2.webp"
+                src="images/camera.jpg"
                 className="img-fluid"
                 alt="famous"
               />
@@ -282,7 +282,7 @@ const Home = () => {
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-3.webp"
+                src="images/camera.jpg"
                 className="img-fluid"
                 alt="famous"
               />
@@ -298,7 +298,7 @@ const Home = () => {
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-3.webp"
+                src="images/camera.jpg"
                 className="img-fluid"
                 alt="famous"
               />
