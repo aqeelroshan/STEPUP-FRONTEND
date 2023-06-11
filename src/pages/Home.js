@@ -192,7 +192,7 @@ const Home = () => {
           <ProductCard />
         </div>
       </Container>
-      <Container>
+      <Container class1="sale" >
       <div className='sale'>
         <div className="col">
             <div className="row"> 
